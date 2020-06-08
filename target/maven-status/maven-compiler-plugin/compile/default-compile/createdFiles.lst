@@ -1,0 +1,6 @@
+ru/ltm/agent/config/Settings.class
+ru/ltm/agent/ClassFinder.class
+ru/ltm/agent/ClassTransformer.class
+ru/ltm/agent/config/ClassRegistry.class
+ru/ltm/agent/config/JSONSettingsUtils.class
+ru/ltm/agent/Agent.class
